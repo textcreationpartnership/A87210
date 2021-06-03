@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Irish martyr. Or, A true relation of the lamentable sufferings of Mr John Trewman, who by the cruelty of that tyrant, the Earle of Strafford, late lord lievtenant of Ireland, was hang'd, drawn and quarter'd in Caricktargus [sic], for his expressions of love and good will to the Scots, in these late times of troubles. Expressed in an information from the wife of the said martyr, and by two speeches of his own; the one in prison, and the other upon the scaffold.</title>
+            <author>Trewman, John, d. 1641.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87210</idno><idno type="EEBO-CITATION">99859964</idno>
+  <idno type="VID">156529</idno>
+  <idno type="EEBO-PROQUEST">2240860324</idno>
+  
+            <idno type="STC">Wing I1040</idno>
+            <idno type="STC">Thomason E138_29</idno>
+            <idno type="STC">ESTC R16072</idno>
+            <idno type="PROQUEST">99859964</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859964e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87210)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156529)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E138[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Irish martyr. Or, A true relation of the lamentable sufferings of Mr John Trewman, who by the cruelty of that tyrant, the Earle of Strafford, late lord lievtenant of Ireland, was hang'd, drawn and quarter'd in Caricktargus [sic], for his expressions of love and good will to the Scots, in these late times of troubles. Expressed in an information from the wife of the said martyr, and by two speeches of his own; the one in prison, and the other upon the scaffold.</title>
+                  <author>Trewman, John, d. 1641.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F.C. &amp; T.V.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The letter "t" in "Caricktargus" has been changed by hand, to "f".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Strafford, Thomas Wentworth, --  Earl of, 1593-1641 --  Early works to 1800.</term>
+               <term type="personal_name">Trewman, John, d. 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156529:1"/>
+            <p>THE IRISH MARTYR. Or, A true Relation of the Lamentable Sufferings of Mr <hi>John Trewman,</hi> who by the cruelty of that Tyrant, the Earle of <hi>Strafford,</hi> late Lord Lievtenant of <hi>Ireland,</hi> was hang'd, drawn and quarter'd in <hi>Carick<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>argus,</hi> for his expressions of love and good will to the SCOTS, in these late times of troubles. Expressed In an Information from the Wife of the said Mar<g ref="char:EOLhyphen"/>tyr, and by two Speeches of his own; the one in Prison, and the other upon the Scaffold.</p>
+            <figure>
+               <figDesc>depiction of martyrdom</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>F. C.</hi> &amp; <hi>T. V.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb facs="tcp:156529:2"/>
+            <pb n="1" facs="tcp:156529:2"/>
+            <head>THE IRISH MARTYR.</head>
+            <div type="information">
+               <p>
+                  <seg rend="decorInit">T</seg>He late Troubles about causes of Religion, are not unknowne unto the three King<g ref="char:EOLhyphen"/>domes, to the great griefe of but many, e<g ref="char:EOLhyphen"/>specially of the late death of <hi>Iohn Trew<g ref="char:EOLhyphen"/>man,</hi> who by the cruelty of the late Lord Deputy of <hi>Jreland</hi> Earle of Strafford, was lamentably put to death, for avowing the Scottish Covenant and defending of the truth with the Scottish Nation, for which the said <hi>Iohn Trewman</hi> was condemned, hanged, Beheaded, and Quartered, his head put on the Cas<g ref="char:EOLhyphen"/>tle of <hi>Carickfergus,</hi> at the place where before he was Prisoner untill the Day of his Death, and likewise his Quarters put on the foure Ports of the said Towne: untill for the infection thereof they were taken down and buried, to the great griefe of many beholders, in such an Honourable cause to be so lamentably Execu<g ref="char:EOLhyphen"/>ted: And not contented with the cruell usage of his person, did moreover take from his poore wife and Children all his Lands and goods, to the value of one Thousand Pound Sterling: Not leaving his Wife
+<pb n="2" facs="tcp:156529:3"/> 3 pounds, and some Rings of Gold, which were in the purse, but did take the same from her, upon the day of her Husbands Execution, which should have kept alive her Five Fatherlesse Children, as likewise did not leave her selfe any furniture for her owne body. So that the poore Woman and her Children, are put to misery and want. More particular Information may be gathered out of the two following Speeches, of the said worthy Martyr, which were taken from his owne mouth.</p>
+            </div>
+            <div type="speech">
+               <pb n="3" facs="tcp:156529:3"/>
+               <head>
+                  <hi>IOHN TREWMAN'S</hi> First Speech spoken in the <hi>PRISON.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>O all Christians who are desirous to know the Cause of my Suffering in this trou<g ref="char:EOLhyphen"/>blesome time of persecution, there was sent into the North part of <hi>Ireland</hi> as I do conceive, in this furnace of affliction, by the Lord Deputy or some of his Instruments, one who named himselfe Captaine <hi>Ieyles,</hi> and told when he came home to my house, he knew that I was borne in Yorke-shire, and did in all his whole converse with me much revile the Bishops, and much praise the Scot<g ref="char:EOLhyphen"/>tish Nation: For standing so Valorously to the truth of the Gospell, I not thinking the least evill thought of him but very much did lament his case and my own likewise, that we could not have the liberty of the Gospell in the purity of it, without mixt with Super<g ref="char:EOLhyphen"/>stition and Idolatry, wherupon said <hi>Jeyles,</hi> if you will Mr. <hi>Trewman,</hi> I could doe the Scots good service, and desired me that I would write letters in his behalfe, to Scotland which simplie I did: But so it was that after he had catched me in the Spiders Webb, being as all the Country knows, not sent for me onely, but for to Insnare greater men of much more Worth, but espe<g ref="char:EOLhyphen"/>cially Sir <hi>Iohn Clatworthie</hi> somtime my Landlord, whom the Lord did preserve from his wicked enterprises, at
+<pb n="4" facs="tcp:156529:4"/> length I was sent for, by great Troupes of horses to <hi>Dublin</hi> after he had received my letters, whether to the Earle of Strafford, or to which of his Instruments I know not: As also which did much vexe my Soule, Two of my Christian acquaintance, <hi>John Findlay</hi> and <hi>Alexander Blaye,</hi> who I tould him, would see him trans<g ref="char:EOLhyphen"/>ported to Scotland, notwithstanding we never came neer them, were sent for by Troupes also &amp; lay a long time in Dublin with me in Boults in the close layle: All christian People Iudge, whether this fellow was Iudas or not, Oh for better times! I trust in the Lord my posteritie shall yet see it, albeit they be Young: the Lord will have a care of my poore Wife and them: I remember, A freind said to me by the way as I came from Dublin to this place, oh Sir, I would you had ne<g ref="char:EOLhyphen"/>ver seen this Fellow: no said I, for I have laid my compt that although this wicked weede, that hath sprung from the <hi>Deputy,</hi> hath exposed me to die, an Innocent man, as the most perverse in all this Kingdome knows; yet I would not have missed it for ten thousād worlds, if it had not beene for my Simplicity, and unwarinesse with him in this: Alas I thought my selfe as wary and wise as the most men, but let him that thinkes he stan<g ref="char:EOLhyphen"/>deth take heed least hee fall: yet let them torture me, I hope all will worke for the good of my poore Soule. For I have ever found all things worke together, for the well of Gods people, &amp;c.</p>
+            </div>
+            <div type="speech">
+               <pb n="5" facs="tcp:156529:4"/>
+               <head>
+                  <hi>JOHN TREWMANS</hi> last Speech upon the Scaffold, taken from his own mouth by divers Auditors.</head>
+               <p>
+                  <seg rend="decorInit">M</seg>Y Christian Freinds, you have long knowne me in this Country, without spot or blame in the World, for my dealing in any worldly affaires, it is true, Corruption of nature &amp; humane frailty none can Iustifie themselves of: This man that is cause of my death knows that from my heart I prayd for our King, that God would inable him to be a true defender of the Faith as he was stiled, and here on my death this was ever my chiefe care in private and publike. I have had much to doe with God in Dublin, and here in <hi>Carickfergut,</hi> to carry with me to death the Testimony of a good Con<g ref="char:EOLhyphen"/>science: I do here behold yonder poore Land of Scotland; O blessed Land, thou wilt yet through the power of <hi>God</hi> revenge my Innocent blood, it is forthee O Land I die here this <hi>Day:</hi> Come, I will signe it with my hand, and ere it be one halfe houre with my blood: good Freinds, Remember me to the two other suffe<g ref="char:EOLhyphen"/>rers in Dublin, for here on my Death, they are Inno<g ref="char:EOLhyphen"/>cent of any thing, either concerning me, or this fel<g ref="char:EOLhyphen"/>low: now doe your Office Executioner, to a true faith<g ref="char:EOLhyphen"/>full
+<pb n="6" facs="tcp:156529:5"/> Subiect to the King, as hereafter doubt you not will be found, for many more Lives will goe in this cause besides mine: Farewell my deare Wife and Children, and Christian Freinds in my presence, &amp;c.</p>
+               <p>HOLD, All my good Freinds some words more, pray the Lord to strengthen my Faith, that I may arive in new <hi>Jerusalem</hi> ere it be long, and desire, and request the Iudge <hi>Mayarte,</hi> if he may without danger of my Lord Deputy, not to mangle my Body as he hath given Iudgment, and to take care of my Wife and Children: The Lord be with you all, and send you better times, <hi>O</hi> LORD <hi>my Saviour receive my Soule.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
